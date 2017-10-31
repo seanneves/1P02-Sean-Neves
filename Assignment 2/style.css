@@ -1,0 +1,43 @@
+.bigtext{
+  font-size:200%
+}
+
+.greentext{color:green;}
+
+.changefont{font-family: "Comic Sans",Comic,sans-serif;}
+
+.uppercase{text-transform: uppercase;}
+
+div p { font-weight: bold; }
+
+.box {
+margin: 20px 20px 20px 20px;
+border: red 2px outset;
+padding: 20px 20px 20px 20px;
+}
+
+h1 {color: red}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 5px solid green;
+}
+
+.relative {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 5px solid black;
+}
+
+.absolute {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 5px solid red;
+}
