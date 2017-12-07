@@ -1,0 +1,219 @@
+*{background-color: orange}
+
+
+
+
+.title{
+  color:blue;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cloudpic {
+   position: relative;
+   width: 100%;
+}
+
+.centered {
+    font-size: 250%;
+    color: blue;
+    position: absolute;
+    top: 75px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.gx24{
+    position:absolute;
+    TOP:207px;
+    LEFT:10px;
+    WIDTH:435px;
+    HEIGHT:435px;
+   border:10px solid blue;
+}
+
+.gx24Text{
+  position: absolute;
+  top: 575px;
+  left:190px;
+  text-align: center;
+  font-size: 200%;
+  border:10px solid orange;
+  background-color: orange;
+}
+
+.rx300{
+  position: absolute;
+  top: 207px;
+  left: 465px;
+  width: 435px;
+  height: 435px;
+  border: 10px solid blue;
+}
+
+.rx300Text{
+  position: absolute;
+  top: 575px;
+  left:630px;
+  text-align: center;
+  font-size: 200%;
+  border:10px solid orange;
+  background-color: orange;
+}
+
+.procolor{
+  position: absolute;
+  top: 207px;
+  right: -10px;
+  width: 435px;
+  height: 435px;
+  border: 10px solid blue;
+}
+
+.procolorText{
+  position: absolute;
+  top: 575px;
+  right:150px;
+  text-align: center;
+  font-size: 200%;
+  border:10px solid orange;
+  background-color: orange;
+}
+
+.orangeBlock{
+  position: absolute;
+  top: 645px;
+  height: 100px;
+  width: 1366px;
+  background-color: orange;
+}
+
+.smok1Price{
+  position: absolute;
+  top: 650px;
+  left:225px;
+  text-align: center;
+}
+
+.smok1Price2{
+  position: absolute;
+  top: 670px;
+  left:225px;
+  text-align: center;
+}
+
+.topSellers{
+  position: absolute;
+  top: 690px;
+  left: 45%;
+  font-size: 200%;
+}
+
+.rx300Price{
+  position: absolute;
+  top: 650px;
+  left:49%;
+  text-align: center;
+}
+
+.rx300Price2{
+  position: absolute;
+  top: 670px;
+  left:49%;
+  text-align: center;
+}
+
+.procolorPrice{
+  position: absolute;
+  top: 650px;
+  left: 83%;
+  text-align: center;
+}
+
+.procolorPrice2{
+    position: absolute;
+    top: 685px;
+    left: 83%;
+    text-align: center;
+}
+
+.myCart{
+  position: fixed;
+  top: 0px;
+  right: 0px;
+  height: 30px;
+  width: 70px;
+  background-color: orange;
+}
+
+.blueBlock{
+position: absolute;
+top: 192px;
+left: 9px;
+height: 768px;
+width: 150px;
+background-color: blue;
+}
+
+.myCartPage{
+  position: absolute;
+  top: 300px;
+  left: 30px;
+  font-size: 200%;
+}
+
+.checkout{
+  position: absolute;
+  top: 800px;
+  left: 25px;
+  font-size: 200%;
+}
+
+.gx24Amount{
+  top: 300px;
+  left: 500px;
+  font-size: 200%;
+  font-weight: bold;
+  color:grey;
+}
+
+.gx24size{
+  height: 300;
+  width: 300;
+}
+
+.products{
+  height: 50px;
+  width: 1366px;
+  background-color: blue;
+}
+
+.blueBorder{
+  border: 10px solid blue;
+}
+.orangeBackground{
+  background-color: orange;
+}
+
+
+.buyproduct{
+  height: 200px;
+  width: 400px;
+  background-color: orange;
+}
+
+.fixeddate{
+  position: fixed;
+  top: 20px;
+  right: 0px;
+  background-color: orange;
+}
+
+.aboutuslink{
+  position: fixed;
+  height: 30px;
+  width: 70px;
+  top: 0px;
+  left: 0px;
+  background-color: orange;
+}
